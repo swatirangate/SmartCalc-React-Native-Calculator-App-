@@ -2,6 +2,11 @@
   "expo": {
     "name": "calculator-app",
     "slug": "calculator-app",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "2ffb35f0-8cda-4535-bbc7-f53093790aac"
+      }
+    }
   }
 }
